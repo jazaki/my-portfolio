@@ -10,7 +10,10 @@
     "deploy": "node ./node_modules/vue-gh-pages/index.js"
   },
   "dependencies": {
-    "vue": "^2.5.16"
+    "headroom.js": "^0.9.4",
+    "semantic-ui-vue": "^0.2.11",
+    "vue": "^2.5.16",
+    "vue-headroom": "^0.8.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-rc.4",
